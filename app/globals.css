@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-ovo: ["var(--font-ovo)"];
+    --font-outfit: ["var(--font-outfit)"];
+
+    --shadow-black: 4px 4px 0 #000;
+    --shadow-white: 4px 4px 0 #fff;
+
+    --color-lightHover: #fcf4ff;
+    --color-darkHover: #2a004a;
+    --color-darkTheme: #080C14;
+
+    --color-myOrangeMenu: #FCECE7;
+    --color-myOrange: #E43D12;
+}
+
+/* text-[#E43D12] */
