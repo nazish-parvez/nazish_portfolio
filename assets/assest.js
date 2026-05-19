@@ -6,7 +6,7 @@ import { RxArrowTopRight } from "react-icons/rx";
 import { IoCloseOutline } from "react-icons/io5";
 
 // Hero
-import profile_img from "../assets/profile_img.png";
+import profile_img from "../assets/p.jpeg";
 import { GoArrowRight } from "react-icons/go";
 import { RxDownload } from "react-icons/rx";
 
