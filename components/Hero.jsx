@@ -36,7 +36,7 @@ const Hero = () => {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.5 }}
       >
-        <span className="text-myOrange">mern</span> stack developer <br /> based
+        <span className="text-myOrange">full</span> stack developer <br /> based
         in <span className="text-myOrange">India.</span>
       </motion.h1>
 
